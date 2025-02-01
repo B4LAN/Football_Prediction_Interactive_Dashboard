@@ -5,4 +5,6 @@ The dashboard features sections for data input, predictions, and graphical analy
 
 To use the dashboard, make sure you have Microsoft Excel (2016 or later recommended) and enable macros for full functionality. Navigate through the predefined sheets, input your data, and explore the calculated predictions and visual analyses. The methodology is built on the Poisson distribution, which is widely used for predicting football scores based on historical performance metrics.
 
+You can preview the Dashboard Here: https://github.com/B4LAN/Football_Prediction_Interactive_Dashboard/blob/main/Dashboard.png
+
 I am always open to suggestions for improving the project or adding new features. If you have any feedback or ideas, feel free to contact me at balanalexandru1111@gmail.com. Thank you for exploring this project, and I hope you find it both useful and insightful!
